@@ -7,4 +7,3 @@ This is a react app that allows Crypto Wallet Holders to interact with me. Every
 2. https://www.quicknode.com/
 3. https://hardhat.org/
 4. https://metamask.io/
-5. 
